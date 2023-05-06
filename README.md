@@ -15,5 +15,5 @@ We welcome contributions from the embedded development community. If you would l
 
 🔗 &nbsp;**Connect with us**
 <p align="left">
-<a href="https://techprogeny.com" target="blank"><img align="center" src="https://github.com/nikhil-robinson/nikhil-robinson/blob/main/images/src/techprogeny.svg" alt="techprogeny" height="30" width="40" /></a>
-<a href="[[https://linkedin.com/in/nikhil-robinson](https://www.linkedin.com/company/techprogeny/)](https://www.linkedin.com/company/techprogeny/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-robinson" height="30" width="40" /></a>
+<a href="https://techprogeny.com" target="blank"><img align="center" src="https://github.com/nikhil-robinson/nikhil-robinson/blob/main/images/src/techprogeny.svg" alt="techprogeny" height="30" width="40" /></a> <a href="https://www.linkedin.com/company/techprogeny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techprogeny" height="30" width="40" /></a>
+ 
